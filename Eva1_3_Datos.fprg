@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Eva1_3_Datos"/>
+        <attribute name="authors" value="ferna"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:28:22 p. m."/>
+        <attribute name="created" value="ZmVybmE7REVTS1RPUC1IOFRWRjJSOzIwMjUtMDgtMjc7MDQ6MjI6MjQgcC4gbS47MzA3OQ=="/>
+        <attribute name="edited" value="ZmVybmE7REVTS1RPUC1IOFRWRjJSOzIwMjUtMDgtMjc7MDQ6Mjg6MjIgcC4gbS47MjszMTky"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Nombre del Estudiante: &quot;" newline="False"/>
+            <output expression="&quot;Iram Fernando Bugarin Casta&#241;eda&quot;" newline="True"/>
+            <output expression="&quot;Numero de Control: &quot;" newline="False"/>
+            <output expression="25550712" newline="True"/>
+            <output expression="&quot;Edad: &quot;" newline="False"/>
+            <output expression="29" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>

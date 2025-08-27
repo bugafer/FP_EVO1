@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Eva1_2_Datos"/>
+        <attribute name="authors" value="ferna"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:52:08 p. m."/>
+        <attribute name="created" value="ZmVybmE7REVTS1RPUC1IOFRWRjJSOzIwMjUtMDgtMjY7MDQ6NTA6MjEgcC4gbS47MzA3Ng=="/>
+        <attribute name="edited" value="ZmVybmE7REVTS1RPUC1IOFRWRjJSOzIwMjUtMDgtMjY7MDQ6NTI6MDggcC4gbS47MTszMTkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Iram Fernando&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="58.23" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
